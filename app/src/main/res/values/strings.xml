@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DonemOdev</string>
+
+    <string-array name="string_recall_frequency">
+        <item>One Time</item>
+        <item>1 Minute</item>
+        <item>2 Minute</item>
+        <item>3 Minute</item>
+        <item>5 Minute</item>
+        <item>10 Minute</item>
+        <item>15 Minute</item>
+        <item>20 Minute</item>
+        <item>30 Minute</item>
+        <item>1 Hour</item>
+        <item>2 Hour</item>
+        <item>8 Hour</item>
+        <item>12 Hour</item>
+        <item>Everyday</item>
+        <item>Every Week</item>
+        <item>Every Month</item>
+        <item>Every Year</item>
+    </string-array>
+</resources>
